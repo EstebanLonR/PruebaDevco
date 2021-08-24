@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Car rentals" skipped="0" tests="3" time="14.62" timestamp="2021-08-23 03:05:31"><testcase name="rent a car  successful"/><testcase name="rent a car without a pickup locqation"/><testcase name="rent a car by selecting the age of the driver"/></testsuite>
