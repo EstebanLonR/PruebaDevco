@@ -1,2 +1,0 @@
-co.com.devco.booking.certificacion.utils/ManualTest.java
- co.com.devco.booking.certificacion.utils.ManualTest
