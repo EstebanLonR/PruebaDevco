@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Get taxi" skipped="0" tests="1" time="54.86" timestamp="2021-08-23 09:57:33"><testcase name="Get Airport Taxi"><error message="Cannot locate an element using xpath=//h1[contains(string(), 'Datos del pasajero')]&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-APQJM7F', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'&#10;Driver info: driver.version: RemoteWebDriver" type="org.openqa.selenium.NoSuchElementException">Cannot locate an element using xpath=//h1[contains(string(), 'Datos del pasajero')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-APQJM7F', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: driver.version: RemoteWebDriver</error><system-err>Cannot locate an element using xpath=//h1[contains(string(), 'Datos del pasajero')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-APQJM7F', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: driver.version: RemoteWebDriver&#13;
+tasks.GetAirportTaxi.performAs(GetAirportTaxi.java:23)&#13;
+stepdefinitions.gettaxi.GetAirportTaxiStepDefinitions.fillOutTheFormToBookATaxi(GetAirportTaxiStepDefinitions.java:35)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

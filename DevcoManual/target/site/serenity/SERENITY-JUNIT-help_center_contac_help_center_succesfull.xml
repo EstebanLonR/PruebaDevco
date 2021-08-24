@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="help center" skipped="0" tests="3" time="10.31" timestamp="2021-08-23 03:10:50"><testcase name="contac help center succesfull"/><testcase name="contact the help center without logging in"/><testcase name="contact the help center without account"/></testsuite>
