@@ -1,20 +1,20 @@
-co/com/devco/booking/certificacion/manualtest/runners/CarRentals.java
- co.com.devco.booking.certificacion.manualtest.runners.CarRentals
-co/com/devco/booking/certificacion/manualtest/runners/SubscribeForOffers.java
- co.com.devco.booking.certificacion.manualtest.runners.SubscribeForOffers
-co/com/devco/booking/certificacion/manualtest/runners/Language.java
- co.com.devco.booking.certificacion.manualtest.runners.Language
+co/com/devco/booking/certificacion/manualtest/runners/RentaAutos.java
+ co.com.devco.booking.certificacion.manualtest.runners.RentaAutos
+co/com/devco/booking/certificacion/manualtest/runners/Registro.java
+ co.com.devco.booking.certificacion.manualtest.runners.Registro
+co/com/devco/booking/certificacion/manualtest/runners/Suscribirse.java
+ co.com.devco.booking.certificacion.manualtest.runners.Suscribirse
+co/com/devco/booking/certificacion/manualtest/runners/Cuenta.java
+ co.com.devco.booking.certificacion.manualtest.runners.Cuenta
 co/com/devco/booking/certificacion/manualtest/stepdefinitions/ManualTestDefinitions.java
  co.com.devco.booking.certificacion.manualtest.stepdefinitions.ManualTestDefinitions
-co/com/devco/booking/certificacion/manualtest/runners/Registration.java
- co.com.devco.booking.certificacion.manualtest.runners.Registration
-co/com/devco/booking/certificacion/manualtest/runners/Notifications.java
- co.com.devco.booking.certificacion.manualtest.runners.Notifications
-co/com/devco/booking/certificacion/manualtest/runners/Help.java
- co.com.devco.booking.certificacion.manualtest.runners.Help
-co/com/devco/booking/certificacion/manualtest/runners/Account.java
- co.com.devco.booking.certificacion.manualtest.runners.Account
-co/com/devco/booking/certificacion/manualtest/runners/TermsAndConditions.java
- co.com.devco.booking.certificacion.manualtest.runners.TermsAndConditions
-co/com/devco/booking/certificacion/manualtest/runners/Currency.java
- co.com.devco.booking.certificacion.manualtest.runners.Currency
+co/com/devco/booking/certificacion/manualtest/runners/Moneda.java
+ co.com.devco.booking.certificacion.manualtest.runners.Moneda
+co/com/devco/booking/certificacion/manualtest/runners/TerminosYCondiciones.java
+ co.com.devco.booking.certificacion.manualtest.runners.TerminosYCondiciones
+co/com/devco/booking/certificacion/manualtest/runners/Ayuda.java
+ co.com.devco.booking.certificacion.manualtest.runners.Ayuda
+co/com/devco/booking/certificacion/manualtest/runners/Lenguaje.java
+ co.com.devco.booking.certificacion.manualtest.runners.Lenguaje
+co/com/devco/booking/certificacion/manualtest/runners/Notificaciones.java
+ co.com.devco.booking.certificacion.manualtest.runners.Notificaciones

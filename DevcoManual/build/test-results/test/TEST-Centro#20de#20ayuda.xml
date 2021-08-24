@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Centro de ayuda" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-24T04:09:22" hostname="LAPTOP-QRB1258M" time="6.769">
+  <properties/>
+  <testcase name="Contactar con el centro de ayuda exitoso" classname="Centro de ayuda" time="4.444"/>
+  <testcase name="Contactar con el centro de ayudas sin inciar sesion" classname="Centro de ayuda" time="1.01"/>
+  <testcase name="Solicitar ayuda sin estar registrado en la pagina" classname="Centro de ayuda" time="1.252"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Contactar con el centro de ayuda exitoso
+----------------------------------------------------------------------------?[0m
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Contactar con el centro de ayudas sin inciar sesion
+----------------------------------------------------------------------------?[0m
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST MANUAL
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Solicitar ayuda sin estar registrado en la pagina
+----------------------------------------------------------------------------?[0m
+]]></system-err>
+</testsuite>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Centro de ayuda" skipped="0" tests="3" time="6.93" timestamp="2021-08-23 11:09:22"><testcase name="Contactar con el centro de ayuda exitoso"/><testcase name="Contactar con el centro de ayudas sin inciar sesion"/><testcase name="Solicitar ayuda sin estar registrado en la pagina"/></testsuite>

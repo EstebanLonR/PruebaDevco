@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Centro de ayuda","Contactar con el centro de ayuda exitoso","SUCCESS","2021-08-23T23:09:22.149-05:00[America/Bogota]","0.0","4.64"
+"Centro de ayuda","Contactar con el centro de ayudas sin inciar sesion","SUCCESS","2021-08-23T23:09:26.81-05:00[America/Bogota]","0.0","1.03"
+"Centro de ayuda","Solicitar ayuda sin estar registrado en la pagina","SUCCESS","2021-08-23T23:09:27.851-05:00[America/Bogota]","0.0","1.27"

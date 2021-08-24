@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="User register" skipped="0" tests="3" time="7.53" timestamp="2021-08-23 03:12:49"><testcase name="register succesful"/><testcase name="register when the email its wrong"/><testcase name="register when password is different"/></testsuite>
